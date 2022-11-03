@@ -1,1 +1,0 @@
-# I will use this sh!t for my reactjs
